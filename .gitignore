@@ -1,0 +1,11 @@
+*.class
+*.apk
+*.ap_
+*.swp
+bin/
+gen/
+local.properties
+proguard/
+.settings/*
+.classpath
+.project
