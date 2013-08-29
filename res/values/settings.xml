@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="settings0">
+        <item>switch_item</item> <!-- key -->
+		<item>0</item> <!-- type -->
+        <item>org.espier.demo.ios6ui.cb.SwitchCb</item>
+        <item></item>
+        <item></item>
+		<item>Switch Item</item>
+
+        <item>normal_item</item> <!-- key -->
+        <item>1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Normal Item</item>
+    </array>
+    
+    <array name="settings1">
+        <item>dialog</item> <!-- key -->
+		<item>1</item> <!-- type -->
+        <item></item>
+        <item></item>
+        <item></item>
+		<item>Dialog Item</item>
+
+        <item>variable</item> <!-- key -->
+        <item>1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Variable Item</item>
+    </array>
+    
+    <array name="settings_end"></array>
+
+</resources>
