@@ -32,7 +32,6 @@ public class RotationLoadDialog extends Dialog {
 
     private static RotationLoadDialog mDialog;
 
-
     private RotationLoadDialog(Context context, int theme) {
         super(context, theme);
     }
